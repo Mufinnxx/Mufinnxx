@@ -1,6 +1,4 @@
 ## 
-![Image Alt](https://github.com/Mufinnxx/Mufinnxx/blob/1b02614fd2d2eae9230bb8df04b267b9ad5dbdbe/8f79893d454ce3502a7d7711064348a1.jpg)
-<!--
 **Mufinnxx/Mufinnxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
